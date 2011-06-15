@@ -1,4 +1,13 @@
-Some basic applescript to control Spotify
-Usage: 
-   - add global short cut key using QuickSilver or Alfred
-   
+Some very simple applescript to control Spotify without mouse clicking
+
+Usage of spotify-terminal.applescript:
+>> osascript spotify-terminal.applescript {command}
+
+{command} can be:
+   - toggle
+   - next
+   - prev
+   - stop
+
+This works best with adding global short cut key using QuickSilver or Alfred
+
