@@ -4,10 +4,10 @@ Usage of spotify-terminal.applescript:
 >> osascript spotify-terminal.applescript {command}
 
 {command} can be:
-   - toggle
-   - next
-   - prev
-   - stop
+   - toggle or t for toggle play state
+   - next or n for play next song
+   - prev or p for play previous song
+   - stop or s for stop
 
 This works best with adding global short cut key using QuickSilver or Alfred
 
