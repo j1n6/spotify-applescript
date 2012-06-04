@@ -1,3 +1,3 @@
 tell application "Spotify"
-	pause
+  pause
 end tell

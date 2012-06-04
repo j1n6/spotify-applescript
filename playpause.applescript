@@ -1,3 +1,3 @@
 tell application "Spotify"
-	playpause
+  playpause
 end tell

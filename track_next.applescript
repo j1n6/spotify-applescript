@@ -1,3 +1,3 @@
 tell application "Spotify"
-	next track
+  next track
 end tell

@@ -1,3 +1,3 @@
 tell application "Spotify"
-	play
+  play
 end tell
